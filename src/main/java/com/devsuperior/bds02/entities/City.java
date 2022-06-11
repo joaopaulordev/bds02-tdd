@@ -25,6 +25,7 @@ public class City {
 	public City() {
 	}
 
+	//constructor with arguments
 	public City(Long id, String name) {
 		this.id = id;
 		this.name = name;
